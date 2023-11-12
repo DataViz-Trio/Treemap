@@ -5,12 +5,12 @@ This github repo has the code for the treemap implementation for Assignment 2 of
 ## Results 
 
 - `Treemap` : Contains the screenshots of the treemaps generated with different spatial partitioning.
-  - [AreaWiseCrimesSliceDice.png](TreeMap/Images/AreaWiseCrimesSliceDice.png) : Treemap on Area Wise Crimes in Los Angeles with SliceDice partitioning
-  - [AreaWiseCrimesSquarify.png](TreeMap/Images/AreaWiseCrimesSquarify.png) : Treemap on Area Wise Crimes in Los Angeles with Squarify partitioning
-  - [DateWiseCrimesSliceDice.png](TreeMap/Images/DateWiseCrimesSliceDice.png) : Treemap on Date wise crimes in Los Angeles with SliceDice partitioning
-  - [DateWiseCrimesSquarify.png](TreeMap/Images/DateWiseCrimesSquarify.png) : Treemap on Date wise crimes in Los Angeles with Squarify partitioning
-  - [TypeofCrimeSliceDice.png](TreeMap/Images/TypeofCrimeSliceDice.png) : Treemap on Type of Crimes in Los Angeles with SliceDice partitioning
-  - [TypeofCrimeSquarify.png](TreeMap/Images/TypeofCrimeSquarify.png) : Treemap on Type of Crimes in Los Angeles with Squarify partitioning
+  - [AreaWiseCrimesSliceDice.png](Images/AreaWiseCrimesSliceDice.png) : Treemap on Area Wise Crimes in Los Angeles with SliceDice partitioning
+  - [AreaWiseCrimesSquarify.png](Images/AreaWiseCrimesSquarify.png) : Treemap on Area Wise Crimes in Los Angeles with Squarify partitioning
+  - [DateWiseCrimesSliceDice.png](Images/DateWiseCrimesSliceDice.png) : Treemap on Date wise crimes in Los Angeles with SliceDice partitioning
+  - [DateWiseCrimesSquarify.png](Images/DateWiseCrimesSquarify.png) : Treemap on Date wise crimes in Los Angeles with Squarify partitioning
+  - [TypeofCrimeSliceDice.png](Images/TypeofCrimeSliceDice.png) : Treemap on Type of Crimes in Los Angeles with SliceDice partitioning
+  - [TypeofCrimeSquarify.png](Images/TypeofCrimeSquarify.png) : Treemap on Type of Crimes in Los Angeles with Squarify partitioning
  
 ## How to Generate the Treemaps
 
